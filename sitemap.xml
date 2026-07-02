@@ -12,13 +12,43 @@
 </url>
 
 <url>
+<loc>https://www.travelkito.my.id/travel-palembang-bengkulu.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
 <loc>https://www.travelkito.my.id/travel-bengkulu-jambi.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.travelkito.my.id/travel-jambi-bengkulu.html</loc>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://www.travelkito.my.id/travel-bengkulu-curup.html</loc>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.travelkito.my.id/travel-curup-bengkulu.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.travelkito.my.id/travel-curup-palembang.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.travelkito.my.id/travel-palembang-curup.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.travelkito.my.id/rental-mobil-curup.html</loc>
+<priority>0.7</priority>
 </url>
 
 </urlset>
